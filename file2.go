@@ -1,4 +1,4 @@
-package file2
+package github.com/466232108/hello-git
 
 import "fmt"
 
