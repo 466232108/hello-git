@@ -3,5 +3,5 @@ package file2
 import "fmt"
 
 func ShowInfo()  {
-	fmt.Println("--------------------------------------")
+	fmt.Println("this is my test file")
 }
