@@ -1,4 +1,4 @@
-package github.com/466232108/hello-git
+package hello
 
 import "fmt"
 
